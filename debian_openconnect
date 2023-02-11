@@ -1,9 +1,9 @@
 #!/bin/bash
 #Script Variables
-HOST='174.138.190.54';
-USER='ksatunne_a1proakash';
-PASS='a1pr@@7826kash';
-DBNAME='ksatunne_a1proakash';
+HOST='162.250.121.69';
+USER='digitelp_a1proakash';
+PASS='86mXdiu@@11';
+DBNAME='digitelp_a1proakash';
 PORT_TCP='1194';
 PORT_UDP='None';
 
